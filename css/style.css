@@ -236,7 +236,7 @@ a:focus {
 
 #home {
     padding: 0;
-    color: #fff;
+    color: #000;
     background-image: url(../img/cover/home.jpg);
     background-repeat: no-repeat;
     background-position: center center;
